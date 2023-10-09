@@ -1,6 +1,6 @@
 # Langton's Ant Simulator🐜🔲🔳
 
-![Langton's Ant](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LangtonsAntAnimated.gif/300px-LangtonsAntAnimated.gif)
+![image](https://github.com/kzzazzk/Langton-Ant-Simulator/assets/72697785/82959b29-da46-40ae-a10a-c19a60733189)
 
 Dive into the mesmerizing world of Langton's Ant, a captivating cellular automaton that unveils the wonders of emergent behavior and complexity through deceptively simple rules. Welcome to our GitHub project, where we present a Java-based Langton's Ant simulator, inviting you to embark on a journey of exploration and experimentation. Witness how a solitary ant, guided by basic principles, weaves intricate patterns on a grid canvas.
 
