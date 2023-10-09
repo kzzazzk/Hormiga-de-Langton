@@ -26,9 +26,7 @@ These seemingly straightforward rules lead to surprising and intricate patterns 
 
 - Simulate Langton's Ant behavior on a grid.
 - Adjustable grid size.
-- Control the number of steps the ant takes.
 - Visualize the grid and ant's movement in real-time.
-- Save and load patterns.
 
 ## Getting Started
 
