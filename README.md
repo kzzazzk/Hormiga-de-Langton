@@ -34,7 +34,7 @@ To get started with the Langton's Ant simulator, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/kzzazzk/Lan.git](https://github.com/kzzazzk/Langton-Ant-Simulator.git)
+   git clone https://github.com/kzzazzk/Langton-Ant-Simulator.git
 2. Run Ejecucion.java
    
    ```bash
