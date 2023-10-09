@@ -36,5 +36,6 @@ To get started with the Langton's Ant simulator, follow these steps:
    ```bash
    git clone https://github.com/yourusername/langtons-ant-simulator.git
 2. Run Ejecucion.java
+   
    ```bash
    java Ejecucion.java
